@@ -1,0 +1,17 @@
+{
+  "employees": [
+    {
+      "empId": 101,
+      "name": "Prabhu",
+      "designation": "QA Engineer",
+      "salary": "75k",
+      "skills": [
+        "java",
+        "python",
+        "javascript",
+        "API",
+        "Gen-AI"
+      ]
+    }
+  ]
+}
